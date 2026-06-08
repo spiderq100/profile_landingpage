@@ -1,0 +1,8 @@
+# OS files
+Thumbs.db
+db.properties
+Desktop.ini
+.DS_Store
+
+# Log files
+*.log
